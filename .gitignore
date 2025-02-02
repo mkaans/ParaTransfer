@@ -1,0 +1,42 @@
+# Genel IDE ve Sistem Dosyaları
+.idea/
+*.iml
+*.class
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Derlenmiş dosyalar ve bağımlılıklar
+/target/
+/bin/
+/out/
+/build/
+/node_modules/
+
+# Maven ve Gradle ile ilgili
+.mvn/
+.gradle/
+dependency-reduced-pom.xml
+*.jar
+*.war
+*.ear
+
+# Gauge ve Raporlama ile ilgili dosyalar
+reports/
+logs/
+gauge_bin/
+gauge.log
+.gauge/
+
+# Test çıktıları ve yapılandırmalar
+screenshots/
+test-output/
+*.png
+*.jpeg
+
+# Kişisel Ayarlar
+*.swp
+*.swo
+.vscode/
+*.env

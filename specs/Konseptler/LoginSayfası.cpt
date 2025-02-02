@@ -1,0 +1,21 @@
+Created by testinium on 19.01.2025
+
+This is a concept file with following syntax for each concept.
+# Logini doğrula ve transfer uygulamasını başlat
+*"https://catchylabs-webclient.testinium.com/signIn/" URL'sinin doğru olduğunu kontrol et
+*"xpath" tipindeki "(//*[@class='css-1jxf684 r-b88u0q'])[1]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-1jxf684 r-b88u0q'])[1]" elementinin değeri şuna eşit mi "Challenge name:"
+
+*"xpath" tipindeki "(//*[@class='css-1jxf684 r-b88u0q'])[4]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-1jxf684 r-b88u0q'])[4]" elementinin değeri şuna eşit mi "Manager name:"
+
+*"xpath" tipindeki "(//*[@class='css-1jxf684 r-b88u0q'])[5]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-1jxf684 r-b88u0q'])[5]" elementinin değeri şuna eşit mi "Company name:"
+
+*"xpath" tipindeki "//*[@class='css-146c3p1 r-jwli3a r-1b43r93']" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "//*[@class='css-146c3p1 r-jwli3a r-1b43r93']" elementinin değeri şuna eşit mi "OPEN MONEY TRANSFER"
+*"xpath" tipindeki "//*[@class='css-146c3p1 r-jwli3a r-1b43r93']" elementinin tıklanabilirliğini kontrol et ve tıkla
+
+
+#Logout
+*"xpath" tipindeki "//*[@class='wp-block-button__link has-text-color has-background has-very-dark-gray-background-color']" elementinin tıklanabilirliğini kontrol et ve tıkla

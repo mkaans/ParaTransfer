@@ -1,0 +1,25 @@
+Created by testinium on 2.02.2025
+
+This is a concept file with following syntax for each concept.
+# Edit Account ekranını kontrol et
+*"xpath" tipindeki "//*[@class='css-146c3p1 r-ubezar r-vw2c0b']" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "//*[@class='css-146c3p1 r-ubezar r-vw2c0b']" elementinin değeri şuna eşit mi "Edit account"
+
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[5]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[5]" elementinin tıklanabilirliğini kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[5]" elementinin değeri şuna eşit mi "UPDATE"
+
+*"xpath" tipindeki "//*[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8']" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "//*[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8']" elementinin tıklanabilirliğini kontrol et
+
+#ilk hesap adını kaydet
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-1ozpqpt r-yv33h5 r-1b43r93'])[1]" elementinin değeri kaydedilen şu değere eşit mi "ilkHesapAdı"
+
+#Yeni hesap adı tanımla <yeniHesapAdi>
+*"xpath" tipindeki "//*[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8']" text alanına <yeniHesapAdi> değerini yaz
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[5]" elementinin tıklanabilirliğini kontrol et ve tıkla
+
+#ilk hesap adını tanımla <ilkHesapAdı>
+*"xpath" tipindeki "//*[@class='css-11aywtz r-6taxm2 r-1eh6qqt r-z2wwpe r-rs99b7 r-h3s6tt r-1qhn6m8']" text alanına <ilkHesapAdı> değerini yaz
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[5]" elementinin tıklanabilirliğini kontrol et ve tıkla
+

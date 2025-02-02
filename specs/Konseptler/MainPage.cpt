@@ -1,0 +1,17 @@
+Created by testinium on 15.01.2025
+
+This is a concept file with following syntax for each concept.
+# Anasayfa kontrollerini yap
+"https://practicetestautomation.com/practice-test-login//" URL'sinin doğru olduğunu kontrol et
+"xpath" tipindeki "//*[@class='css-9pa8cd']" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "//*[@placeholder='Username']" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "//*[@placeholder='Password']" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "//*[@placeholder='Username']" elementinin tıklanabilirliğini kontrol et
+*"xpath" tipindeki "//*[@placeholder='Password']" elementinin tıklanabilirliğini kontrol et
+*"xpath" tipindeki "//*[@class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13qz1uu']" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "//*[@class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13qz1uu']" elementinin tıklanabilirliğini kontrol et
+
+#Login ol <userName>  <password>
+*"xpath" tipindeki "//*[@placeholder='Username']" text alanına <userName> değerini yaz
+*"xpath" tipindeki "//*[@placeholder='Password']" text alanına <password> değerini yaz
+*"xpath" tipindeki "//*[@class='css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13qz1uu']" elementine tıkla

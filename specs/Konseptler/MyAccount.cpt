@@ -1,0 +1,35 @@
+Created by testinium on 2.02.2025
+
+This is a concept file with following syntax for each concept.
+# Hesap sayfasını kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-1gknse6 r-1b43r93'])[1]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-1gknse6 r-1b43r93'])[1]" elementinin değeri şuna eşit mi "My account"
+
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-1gknse6 r-1b43r93'])[2]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-1gknse6 r-1b43r93'])[2]" elementinin değeri şuna eşit mi "Transactions"
+
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-1ozpqpt r-g6644c r-1b43r93'])[2]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-1ozpqpt r-g6644c r-1b43r93'])[2]" elementinin değeri şuna eşit mi "Account type"
+
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[2]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[2]" elementinin tıklanabilirliğini kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[2]" elementinin değeri şuna eşit mi "TRANSFER MONEY"
+
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[3]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[3]" elementinin tıklanabilirliğini kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[3]" elementinin değeri şuna eşit mi "ADD MONEY"
+
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[4]" elementinin görünürlüğünü kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[4]" elementinin tıklanabilirliğini kontrol et
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[4]" elementinin değeri şuna eşit mi "EDIT ACCOUNT"
+
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-1ozpqpt r-yv33h5 r-1b43r93'])[1]" elementinin değerini al ve "ilkHesapAdı" adıyla kaydet
+*"ilkHesapAdı" adıyla kaydedilen değeri getir
+
+#Edit Account a git
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-jwli3a r-1b43r93'])[4]" elementinin tıklanabilirliğini kontrol et ve tıkla
+
+
+#Hesap adının değiştirildiğini kontrol et <yeniHesapAdi>
+*"3" saniye bekle
+*"xpath" tipindeki "(//*[@class='css-146c3p1 r-1ozpqpt r-yv33h5 r-1b43r93'])[1]" elementinin değeri şuna eşit mi <yeniHesapAdi>
