@@ -12,9 +12,9 @@ Gauge (https://docs.gauge.org/getting_started/installing-gauge.html)
 
 Google Chrome & ChromeDriver
 
-2️⃣ Projeyi Klonlayın
+2️⃣ Projeyi Klonlayın 
 
-git clone
+git clone (https://github.com/mkaans/ParaTransfer.git)
 cd para-transfer-otomasyon
 
 3️⃣ Bağımlılıkları Yükleyin
